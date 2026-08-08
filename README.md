@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner động -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Xin%20chào!%20Tôi%20là%20[Tên%20Của%20Bạn]&fontSize=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Xin%20chào!%20Tôi%20là%20[Kim%20Anh]&fontSize=35&animation=fadeIn" width="100%" />
 
   <!-- Câu tagline ngắn gọn -->
   <h3>🚀 Freelance Full-Stack Developer | Chuyên Xây Dựng Web App & Tối Ưu Hệ Thống</h3>
@@ -36,14 +36,13 @@ Tôi cung cấp các giải pháp phần mềm toàn diện cho cá nhân, dự 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mon6dec&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mon6dec&layout=compact&theme=radical" height="165" />
 </div>
 
 ## 📬 Liên Hệ Hợp Tác
 
 Bạn đang có dự án cần phát triển hoặc tư vấn kỹ thuật? Hãy kết nối với tôi ngay:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimanhvo061204@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kim.anh.15820)
